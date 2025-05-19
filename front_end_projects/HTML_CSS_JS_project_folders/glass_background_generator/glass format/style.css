@@ -1,0 +1,35 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+}
+body
+{
+    height: 100vh;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+}
+h1
+{
+    font-weight: 600;
+    font-size: 50px;
+    color: white;
+}
+.output_container
+{
+    width: 50%;
+    height: 40%;
+    border: 2px solid black;
+}
+button
+{
+    width: 50%;
+    height: 10%;
+    border-radius: 50px;
+    border: none;
+    font-weight: 600;
+    font-size: 50px;
+}

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>ROCK PAPER SCISSORS</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="heading">ROCK PAPER SCISSORS</h1>
+    <div class="game_container" id="game_container">
+        <div class="timer">
+            <div class="container"><h2>TIMER</h2></div>   
+            <div class="container"> <span><h2 id="timing">00:30</h2></span></div>   
+        </div>
+        <div class="two_player_container">
+            <div class="user_content"><h2>user</h2></div>
+            <div class="ai_content"><h2>ai</h2></div>
+        </div>
+        <div class="display_image_content">
+            <div class="user" id="user"></div>
+            <div class="ai" id="ai"></div>
+        </div>
+        <h1 id="result"></h1>
+        <h1 > THE CHANCE IS <span id="chance">10</span></h1>
+        <div class="button_container">
+            <button onclick="rock()">rock</button>
+            <button onclick="paper()">paper</button>
+            <button onclick="scissors()">scissors</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

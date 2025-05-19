@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>guess the number</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="heading">GUESS THE NUMBER</h1>
+    <div class="content_container">
+        <div class="timer_container">
+            <h2 class="timer">TIMER</h2><span id="timer">00:30</span>
+        </div>
+        <input type="text" id="input" placeholder="ENTER THE NUMBER ONLY">
+        <h2 class="range_content">THE AI CHOOSE THE NUMBER RANGE IS 0 TO 50</h2>
+        <h2 class="hint_content" id="hint"></h2>
+        <h2 class="count" id="count_chances">THE CHANCE IS : 10</h2>
+        <button onclick="validate()">check the answer</button>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

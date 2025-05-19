@@ -1,0 +1,47 @@
+java script projects topics
+
+
+1)password strength tester
+
+
+2)id card generator
+
+3)tools convertor
+
+4)grocery list creator
+
+5)shop bill generator
+
+6)crud base website
+
+7)stop watch
+
+8) clock
+
+9)count down clock
+
+10)loan calculator
+
+11)eb bill calculator
+
+12)calculator
+
+13)coin toss
+
+
+
+COMPLETED PROJECTS
+
+1)password generator
+
+2)color flipper for rgb colors
+
+3)color flipper for rgba in glass effect
+
+4)color flipper for hexcode colors
+
+5)guess the number in single format
+
+6)rock paper scissors game
+
+7)number counter

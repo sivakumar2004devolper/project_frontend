@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Password generator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1 class="heading">PASSWORD GENERATOR</h1>
+    <div class="password_generator_container">
+        <input type="text" name="generate_password" id="output">
+        <select id="size">
+            <option value="8">Eight</option>
+            <option value="16">Sixteen</option>
+            <option value="24">Twenty four</option>
+            <option value="32">Thirty two</option>
+        </select>
+        <div class="button_container">
+            <button onclick="generate()">Generate</button>
+            <button onclick="refresh()">Refresh</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>

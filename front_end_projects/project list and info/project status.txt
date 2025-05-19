@@ -1,0 +1,15 @@
+project status 
+
+1) password generator                       = successfully completed = 25/12/24
+
+2) number counter                           = successfully completed = 28/12/24
+
+3) hexadecimal code format color flipper    = successfully completed = 29/12/24
+
+4) RGB color format color flipper           = successfully completed = 30/12/24
+
+5) glass background generator               = successfully completed = 31/12/24
+
+6) guess the number 			    = successfully completed = 14/12/24
+
+7) rock paper scissors                      = successfully completed = 13/01/24
